@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="global_margin_min">2dp</dimen>
+    <dimen name="global_margin_small">5dp</dimen>
+    <dimen name="global_margin_medium">8dp</dimen>
+    <dimen name="global_margin_large">12dp</dimen>
+    <dimen name="global_margin_big">18dp</dimen>
+</resources>

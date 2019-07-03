@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sweatworks</string>
+    <string name="label_hint_search_person">Input a name</string>
+</resources>
